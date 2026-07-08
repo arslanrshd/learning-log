@@ -89,6 +89,10 @@ Each log follows a simple structure.
 - Fixed...
 - Read...
 
+## Why It Matters
+
+-
+
 ## Resources
 
 - Official Documentation
