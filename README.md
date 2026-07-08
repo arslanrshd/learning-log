@@ -19,6 +19,7 @@ The goal isn't to know everything—it's to learn consistently.
 - Track my growth as a developer.
 
 ---
+
 ## 📖 Topics
 
 This repository may include notes about:
@@ -50,7 +51,7 @@ Whenever possible, I prioritize learning from:
 
 - Official Documentation
 - Books
-- Video
+- Videos
 - Technical Articles
 - Open Source Projects
 - Practical Experiments
@@ -91,8 +92,8 @@ Each log follows a simple structure.
 ## Resources
 
 - Official Documentation
-- Video
 - Article
+- Videos
 
 ## Notes
 
