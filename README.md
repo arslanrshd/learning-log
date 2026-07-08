@@ -4,16 +4,21 @@
 
 Welcome to my Learning Log! 👋
 
-This repository is my personal knowledge base where I document what I learn each day. Writing things down helps me understand concepts better, remember them longer, and track my progress over time.
+This repository is my personal knowledge base where I document what I learn, reinforce my understanding through writing, and track my progress over time.
+
+The goal isn't to know everything—it's to learn consistently.
+
+---
 
 ## 🎯 Goals
 
 - Build a daily learning habit.
 - Learn in public.
 - Reinforce knowledge by writing.
-- Create a searchable personal reference.
+- Create a searchable personal knowledge base.
 - Track my growth as a developer.
 
+---
 ## 📖 Topics
 
 This repository may include notes about:
@@ -30,11 +35,27 @@ This repository may include notes about:
 - Web Development
 - Programming Concepts
 - Problem Solving
-- English
-- Chess
+- Software Engineering
+- System Design
 - Books
+- Chess
 - Productivity
 - Anything interesting I learn
+
+---
+
+## 📚 Preferred Learning Resources
+
+Whenever possible, I prioritize learning from:
+
+- Official Documentation
+- Books
+- Video
+- Technical Articles
+- Open Source Projects
+- Practical Experiments
+   
+---
 
 ## 📂 Repository Structure
 
@@ -70,8 +91,8 @@ Each log follows a simple structure.
 ## Resources
 
 - Official Documentation
-- Article
 - Video
+- Article
 
 ## Notes
 
@@ -83,6 +104,14 @@ Additional thoughts or observations.
 This repository grows one commit at a time.
 
 Small improvements every day lead to big results over time.
+
+---
+
+## 🤝 Contributing
+
+This is primarily a personal learning repository.
+
+If you find an error, have a suggestion, or would like to improve a note, feel free to open an issue or submit a pull request.
 
 ---
 
