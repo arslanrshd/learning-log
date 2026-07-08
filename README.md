@@ -4,7 +4,7 @@
 
 Welcome to my Learning Log! 👋
 
-This repository is my personal knowledge base where I document what I learn, reinforce my understanding through writing, and track my progress over time.
+This repository is my personal knowledge base where I document what I learn, deepen my understanding through writing, and track my progress over time.
 
 The goal isn't to know everything—it's to learn consistently.
 
@@ -101,7 +101,7 @@ Additional thoughts or observations.
 
 ## 📈 Progress
 
-This repository grows one commit at a time.
+Every note represents another step forward.
 
 Small improvements every day lead to big results over time.
 
